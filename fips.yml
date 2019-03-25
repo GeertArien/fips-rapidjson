@@ -1,0 +1,6 @@
+#
+# fips-rapidjson
+#
+---
+exports:
+   header-dirs: [ 'rapidjson/include', 'rapidjson/include/rapidjson'  ]
